@@ -19,7 +19,7 @@ This Python script brings the nostalgic fun of Hangman to your terminal, but ins
 1.  **Prerequisites:** Make sure you have Python 3 installed on your system.
 2.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+    git clone [[https://github.com/schaporkar/Bollywood-hangman.git]](https://github.com/schaporkar/Bollywood-hangman.git)
     cd your-repository-name
     ```
 3.  **Run the Game:** Execute the Python script from your terminal.
